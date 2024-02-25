@@ -5,3 +5,4 @@ Business Intelligence &amp; Business Analysis Articles
 - [CSAT Vs NPS: Which Is A Better KPI For Customer Satisfaction?](https://mr16x9.blogspot.com/2024/02/csat-vs-nps-which-is-better-kpi-for.html)
 - [Mistakes Should Avoid a Business Analysts](https://mr16x9.blogspot.com/2024/02/mistakes-should-avoid-business-analysts.html)
 - [What is churn rate? Measure and Control churn rate to get more Customers](https://mr16x9.blogspot.com/2024/02/what-is-churn-rate-measure-and-control.html)
+- [What Skills does a Business Analyst Need?]()
