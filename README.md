@@ -6,3 +6,4 @@ Business Intelligence &amp; Business Analysis Articles
 - [Mistakes Should Avoid a Business Analysts](https://mr16x9.blogspot.com/2024/02/mistakes-should-avoid-business-analysts.html)
 - [What is churn rate? Measure and Control churn rate to get more Customers](https://mr16x9.blogspot.com/2024/02/what-is-churn-rate-measure-and-control.html)
 - [What Skills does a Business Analyst Need?]()
+- [What qualifications do I need to be a Business Analyst?]()
