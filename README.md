@@ -8,3 +8,5 @@ Business Intelligence &amp; Business Analysis Articles
 - [What Skills does a Business Analyst Need?]()
 - [What qualifications do I need to be a Business Analyst?]()
 - [What does a business intelligence analyst do?]()
+- [Does business intelligence pay well?]()
+
