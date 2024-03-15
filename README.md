@@ -12,4 +12,5 @@ Business Intelligence &amp; Business Analysis Articles
 - [What are the 4 concepts of business intelligence?]()
 - [What does a business intelligence role do?]()
 - [What programming language do BI developers use?]()
-
+- [What is BI developers average salary]()
+- 
