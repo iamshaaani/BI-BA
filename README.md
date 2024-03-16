@@ -14,4 +14,4 @@ Business Intelligence &amp; Business Analysis Articles
 - [What programming language do BI developers use?]()
 - [What is BI developers average salary]()
 - [What is Business Intelligence - Defination by Iamshaaani]()
-
+- [What is an example of a business intelligence?]()
