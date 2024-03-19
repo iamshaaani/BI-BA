@@ -15,3 +15,5 @@ Business Intelligence &amp; Business Analysis Articles
 - [What is BI developers average salary]()
 - [What is Business Intelligence - Defination by Iamshaaani]()
 - [What is an example of a business intelligence?]()
+- [What is the significance of business intelligence?]()
+  
