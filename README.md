@@ -18,5 +18,6 @@ Business Intelligence &amp; Business Analysis Articles
 - [What is the significance of business intelligence?]()
 - [What is the most important part of business intelligence?]()
 - [Is Business Intelligence 'BI' Developer are Data Engineers?]()
+- [Is Business Intelligence 'BI' Worth Domain?]()
 
   
