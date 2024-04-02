@@ -21,5 +21,6 @@ Business Intelligence &amp; Business Analysis Articles
 - [Is Business Intelligence 'BI' Worth Domain?]()
 - [Is Business Intelligence 'BI' batter than Business Analyst Domain]() 
 - [Is Business Intelligence 'BI' backbone of growth?]()
-- [Is Business Intelligence 'BI' is Data Analyst?]() 
+- [Is Business Intelligence 'BI' is Data Analyst?]()
+- [Is Business Intelligence 'BI' is Data Engineer?]()
   
