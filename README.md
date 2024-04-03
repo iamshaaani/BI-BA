@@ -23,4 +23,5 @@ Business Intelligence &amp; Business Analysis Articles
 - [Is Business Intelligence 'BI' backbone of growth?]()
 - [Is Business Intelligence 'BI' is Data Analyst?]()
 - [Is Business Intelligence 'BI' is Data Engineer?]()
+- [Is Business Intelligence 'BI' is Data Scientist?]()
   
