@@ -25,4 +25,5 @@ Business Intelligence &amp; Business Analysis Articles
 - [Is Business Intelligence 'BI' is Data Engineer?]()
 - [Is Business Intelligence 'BI' is Data Scientist?]()
 - [Why Business Intelligence 'BI'?]()
+- [Why Business Intelligence 'BI' necessary in this modern age?]()
   
