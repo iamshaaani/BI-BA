@@ -29,4 +29,4 @@ Business Intelligence &amp; Business Analysis Articles
 - [Why Business Intelligence 'BI' necessary in this modern age?]()
 - [Business Intelligence 'BI' Tools?]()
 - [Business Intelligence 'BI' Tool Microsoft PowerBI?]()
-  
+- [Business Intelligence 'BI' Tool Tableau ?]()  
