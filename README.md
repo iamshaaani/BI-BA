@@ -31,3 +31,4 @@ Business Intelligence &amp; Business Analysis Articles
 - [Business Intelligence 'BI' Tool Microsoft PowerBI?]()
 - [Business Intelligence 'BI' Tool Tableau ?]()
 - [Business Intelligence 'BI' Tool Qlick ?]()  
+- [Business Intelligence 'BI' Tool Qlick ?]()
