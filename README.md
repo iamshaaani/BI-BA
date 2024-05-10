@@ -33,3 +33,4 @@ Business Intelligence &amp; Business Analysis Articles
 - [Business Intelligence 'BI' Tool Qlick?]()  
 - [Business Intelligence 'BI' Tool Looker?]()
 - [Business Intelligence 'BI' Other Tools?]()
+- [How Business Intelligence 'BI' Play it role in Business Growth?]()
