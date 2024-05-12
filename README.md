@@ -34,3 +34,4 @@ Business Intelligence &amp; Business Analysis Articles
 - [Business Intelligence 'BI' Tool Looker?]()
 - [Business Intelligence 'BI' Other Tools?]()
 - [How Business Intelligence 'BI' Play it role in Business Growth?]()
+- [How to become a Business Intelligence 'BI' Expert?]()
