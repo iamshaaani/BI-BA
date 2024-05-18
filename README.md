@@ -36,4 +36,4 @@ Business Intelligence &amp; Business Analysis Articles
 - [How Business Intelligence 'BI' Play it role in Business Growth?]()
 - [How to become a Business Intelligence 'BI' Expert?]()
 - [Business Intelligence 'BI' Role Categories]()
-- - [Business Intelligence 'BI' Role Categories]()
+- [Business Intelligence 'BI' in Automotive]()
