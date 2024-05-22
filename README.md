@@ -37,3 +37,4 @@ Business Intelligence &amp; Business Analysis Articles
 - [How to become a Business Intelligence 'BI' Expert?]()
 - [Business Intelligence 'BI' Role Categories]()
 - [Business Intelligence 'BI' in Automotive]()
+- [Business Intelligence 'BI' in Fitness]()
