@@ -38,3 +38,4 @@ Business Intelligence &amp; Business Analysis Articles
 - [Business Intelligence 'BI' Role Categories]()
 - [Business Intelligence 'BI' in Automotive]()
 - [Business Intelligence 'BI' in Fitness]()
+- [Business Intelligence 'BI' in Airline]()
