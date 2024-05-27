@@ -40,3 +40,4 @@ Business Intelligence &amp; Business Analysis Articles
 - [Business Intelligence 'BI' in Fitness]()
 - [Business Intelligence 'BI' in Airline]()
 - [Business Intelligence 'BI' in Health Care]()
+- [Business Intelligence 'BI' in Transport]()
