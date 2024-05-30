@@ -43,3 +43,4 @@ Business Intelligence &amp; Business Analysis Articles
 - [Business Intelligence 'BI' in Transport]()
 - [Business Intelligence 'BI' in Consultation]()
 - [Business Intelligence 'BI' in Ecommerce]()
+- [Business Intelligence 'BI' in Retail]()
