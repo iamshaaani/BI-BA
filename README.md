@@ -44,3 +44,4 @@ Business Intelligence &amp; Business Analysis Articles
 - [Business Intelligence 'BI' in Consultation]()
 - [Business Intelligence 'BI' in Ecommerce]()
 - [Business Intelligence 'BI' in Retail]()
+- [Business Intelligence 'BI' in Personal Care]()
