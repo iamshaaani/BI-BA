@@ -45,3 +45,4 @@ Business Intelligence &amp; Business Analysis Articles
 - [Business Intelligence 'BI' in Ecommerce]()
 - [Business Intelligence 'BI' in Retail]()
 - [Business Intelligence 'BI' in Personal Care]()
+- [Business Intelligence 'BI' in Arrow Space]()
